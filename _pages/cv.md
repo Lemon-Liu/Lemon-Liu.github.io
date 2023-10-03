@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biology (Microbial Bioinformatics), Shanghai Jiao TOng University, 2016-2021
+* Visiting scholar in Ontology, University of Michigan, 2018-2019
+* B.S. in Bioinformatics, Huazhong Agricultural University, 2012-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2023: Bioinformatics Scientist III
+  * Translational Medicine R&D Center, Hansoh Pharma, Shanghai, China
+  * Duties included:
+    * Biomarker and gene target identification
+    * Disease understanding, indication selection/expansion, and patient stratification
+    * Drug resistance understanding and combination therapy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills: R, Linux Shell Script, Python, Perl, MySQL, SPARQL, HTML 
+* Omics data analysis: WES, RNA-seq, Metagenome, Nanopore, WGS, Pacbio, ChIA-PET, TSLR
 
 Publications
 ======
