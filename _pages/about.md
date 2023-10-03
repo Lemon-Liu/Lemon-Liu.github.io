@@ -14,9 +14,9 @@ My doctoral research at Shanghai Jiao Tong University focused on bacterial Integ
 
 Motivated by a desire to make a more direct impact on human health and patient outcomes, I embarked on a new journey in a leading Chinese pharmaceutical company’s Translational Medicine R&D center as a Bioinformatic Scientist III after graduation. My role involved various aspects of oncology and drug development, such as biomarker and gene target identification, disease understanding, and indication expansion. 
 
-Feel free to email me about research or any advice I can help with!
+<!-- Feel free to email me about research or any advice I can help with! -->
 
-You can find my CV here: [Meng LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+<!--You can find my CV here: [Meng LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 
 <!--\[Email\](mailto:XX@stu.pku.edu.cn) / \[Github\](https://github.com/QiuDi233) / \[Wechat\](../images/wechat.jpg) / \[CSDN\](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)-->
 
