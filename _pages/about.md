@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <!--You can find my CV here: [Meng LIU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
-About me
+
+Summary
 ======
 My academic journey began with an interdisciplinary Bioinformatics undergraduate program at Huazhong Agricultural University, laying a strong foundation in computer science, mathematics, and biology. 
 
