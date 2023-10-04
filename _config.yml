@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng LIU, Ph.D."
+title                    : "Welcome to Meng (Mia) LIU’s Personal Homepage!"
 title_separator          : "-"
 name                     : &name "Meng LIU"
 description              : &description "test"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng (Mia) LIU"
+  name             : "Meng (Mia) LIU, Ph.D."
   avatar           : "MengLiu.jpg"
-  bio              : "Bioinformatics"
+  bio              : "Bioinformatic Scientist for Microbiology and Oncology"
   location         : 
   employer         :
   pubmed           : ## "https://www.ncbi.nlm.nih.gov/pubmed/?term=Meng+LIU"
